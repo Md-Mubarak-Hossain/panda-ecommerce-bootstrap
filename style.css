@@ -13,6 +13,8 @@
     background-color: rgb(255, 92, 152);
 }
 
-.displaying img {
-    margin-top: 20%;
+
+.images {
+    padding-top: 2%;
+    height: 480px;
 }
